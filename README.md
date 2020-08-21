@@ -1,24 +1,8 @@
-# hello-world
+# Vue Calculator
 
-## Project setup
-```
-npm install
-```
+## [Youtube Tutorial](https://www.youtube.com/watch?v=m1_ih43p24s)
+### [Github Original Repo](https://github.com/codyseibert/vue-calculator)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+Made By: [Cody Seibert](https://github.com/codyseibert)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
